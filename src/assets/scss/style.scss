@@ -45,6 +45,10 @@
 @import "utilities";
 @import "print";
 
+html {
+  scroll-behavior: smooth;
+}
+
 .brand-text-icon {
   font-size: 26px;
   font-weight: 600;
